@@ -18,3 +18,38 @@ TileSets/HexaRealm/Tiles/Beach2
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/Beach3
+  rotate: false
+  xy: 0, 112
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Beach4
+  rotate: false
+  xy: 0, 112
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Shipyard
+  rotate: false
+  xy: 0, 168
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0 
+  index: -1
+TileSets/HexaRealm/Tiles/Resort
+  rotate: false
+  xy: 0, 224
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0 
+  index: -1
+TileSets/HexaRealm/Tiles/Sand Citadel
+  rotate: false
+  xy: 0, 280
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0 
+  index: -1
