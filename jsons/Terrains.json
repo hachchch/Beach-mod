@@ -1,4 +1,12 @@
 [
+	// Coastal
+	{
+		"name": "Beach",
+                "type": "Land",
+		"gold": 1,
+		"movementCost": 1,
+                "RGB": [255, 245, 189]
+	},
         // Vanila
         {
                 "name": "Grassland",
@@ -90,14 +98,5 @@
             "Considered [Undesirable] when determining start locations <in all except [Desert] Regions>",
             "Every [13] tiles with this terrain will receive a major deposit of a strategic resource.",
                 "Becomes [Beach] when adjacent to [Coast]"]
-        },
-	// Coastal
-	{
-		"name": "Beach",
-                "type": "Land",
-		"gold": 1,
-		"movementCost": 1,
-                "RGB": [255, 245, 189],
-		"uniques": ["Becomes [Grassland] when adjacent to [Atoll]"]
-	}
+        }
 ]
