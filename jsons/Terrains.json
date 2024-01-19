@@ -7,7 +7,7 @@
 		"movementCost": 1,
 		"occursOn": ["Tundra","Plains","Grassland","Desert","Snow"],
                 "RGB": [255, 245, 189],
-		"uniques": ["Considered [Trading post] when determining start locations",
+		"uniques": ["Considered [All] when determining start locations",
 			"A Region is formed with at least [40]% [Beach] tiles, with priority [5]",
 			"Base Terrain on this tile is not counted for Region determination",
 			"[+1] to Fertility for Map Generation"]
