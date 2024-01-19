@@ -17,6 +17,6 @@
             "Considered [Food] when determining start locations <in [Beach] Regions>",
             "Considered [Desirable] when determining start locations <in [Beach] Regions>",
             "Becomes [Desert] when adjacent to [River]",
-            "Every [16] tiles with this terrain will receive a major deposit of a strategic resource."]]
+            "Every [16] tiles with this terrain will receive a major deposit of a strategic resource."]
         }
 ]
