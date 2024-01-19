@@ -5,6 +5,10 @@
 		"gold": 1,
 		"movementCost": 1,
                 "RGB": [255, 245, 189],
+		"uniques": ["A Region is formed with at least [60]% [Beach] tiles, with priority [7]",
+            "A Region can not contain more [Grassland] tiles than [Beach] tiles",
+	"A Region can not contain more [Plains] tiles than [Beach] tiles"]
+		
         },
         // Vanila
         {
